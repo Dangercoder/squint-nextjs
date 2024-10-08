@@ -1,0 +1,1 @@
+{:lint-as {macros/defsa clojure.core/defn}}
