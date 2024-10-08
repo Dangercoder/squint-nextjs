@@ -6,7 +6,7 @@
 
 ### Run it 
 Create a clerk account (https://clerk.com/) and get the publishable key and secret key. Use the nextjs template.
-Set the keys in the .env.local file
+Set the keys in the `.env.local` file
 
 Then:
 1. `npm install`
