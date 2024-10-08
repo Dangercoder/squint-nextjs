@@ -1,1 +1,0 @@
-["^ ","~$submitUsername",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[1]],"~:name","^0","~:ns","~$components.actions","~:top-ns","^7","~:arities",["^ ","~i1",["^ ","~:ret",["^4",["~:nil"]],"~:arglist-str","[data]"]],"~:type","~:fn"],"~:filename","/home/dangercoder/repos/cljs-nextjs/src/components/actions.cljs"]
